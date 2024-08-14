@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nadia-coffee/static/css/main.730fc47d.css",
-    "main.js": "/nadia-coffee/static/js/main.2e574fa6.js",
+    "main.js": "/nadia-coffee/static/js/main.4817ea42.js",
     "static/js/453.f44974eb.chunk.js": "/nadia-coffee/static/js/453.f44974eb.chunk.js",
     "static/media/Nadia_Art_Paper.png": "/nadia-coffee/static/media/Nadia_Art_Paper.d83c132614870f34ac55.png",
     "static/media/shop-banner-pic-shadow.png": "/nadia-coffee/static/media/shop-banner-pic-shadow.b16e95320b997ed0eea7.png",
@@ -20,11 +20,11 @@
     "static/media/naver-icon.svg": "/nadia-coffee/static/media/naver-icon.66fa28ebcf7f06a658080f784a5a0b93.svg",
     "static/media/burger-menu-icon.svg": "/nadia-coffee/static/media/burger-menu-icon.fc12fbd678bea2ce4ec9524cbe12a170.svg",
     "main.730fc47d.css.map": "/nadia-coffee/static/css/main.730fc47d.css.map",
-    "main.2e574fa6.js.map": "/nadia-coffee/static/js/main.2e574fa6.js.map",
+    "main.4817ea42.js.map": "/nadia-coffee/static/js/main.4817ea42.js.map",
     "453.f44974eb.chunk.js.map": "/nadia-coffee/static/js/453.f44974eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.730fc47d.css",
-    "static/js/main.2e574fa6.js"
+    "static/js/main.4817ea42.js"
   ]
 }
