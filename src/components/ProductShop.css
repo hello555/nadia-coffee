@@ -1,0 +1,74 @@
+.product-shop-card {
+  position: relative;
+  flex: 1 1 20%;
+  box-sizing: border-box;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  transition: transform 0.3s;
+  background-color: #ffffff;
+  padding: 10px 0 0 0;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: #a7ccfc;
+  cursor: pointer;
+}
+
+.product-shop-card:hover {
+  transform: translateY(-5px);
+}
+
+.product-shop-card:hover .product-shop-name,
+.product-shop-card:hover .product-shop-price {
+  color: #ffffff;
+}
+
+.product-shop-image {
+  width: 200px;
+  height: 200px;
+}
+
+.product-shop-info {
+  width: 100%;
+  background-color: #a7ccfc;
+  padding: 10px 0;
+  text-align: left;
+}
+
+.product-shop-name {
+  font-size: 1.0rem;
+  font-weight: bolder;
+  color: #141414;
+  margin: 0;
+  text-align: left;
+  padding: 0 10px 0 10px;
+}
+
+.product-shop-price {
+  font-size: 0.9rem;
+  color: #141414;
+  margin: 0;
+  text-align: left;
+  padding: 0 10px 0 10px;
+}
+
+.icon-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.icon-container img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.icon-container img:hover {
+  transform: scale(1.1);
+}

@@ -1,0 +1,156 @@
+.home-container {
+  padding: 0 5%;
+  margin-top: 20px;
+}
+
+.banner {
+  overflow: hidden;
+}
+
+.banner-image-container {
+  float: left;
+  width: 35%;
+  height: 600px;
+}
+
+.banner-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-content {
+  float: left;
+  width: 65%;
+  height: 600px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.banner-company-name {
+  font-size: 4rem;
+  font-weight: bolder;
+  color: #000000;
+  margin: 0;
+  line-height: 0.2;
+  background-color: #a7ccfc;
+}
+
+.banner-quote {
+  letter-spacing: 3px;
+  border-left: 3px solid #a7ccfc;
+  padding-left: 1%;
+  font-size: 1rem;
+}
+
+.quote-image-container {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.quote-image {
+  max-width: 50%;
+  height: auto;
+  object-fit: contain;
+}
+
+.promo-section {
+  display: flex;
+  align-items: flex-start;
+  margin: 20px 0 20px 0;
+  gap: 20px;
+}
+
+.promo-text {
+  position: relative;
+  flex: 1.5;
+  font-size: 3.5rem;
+  font-weight: bolder;
+  color: #141414;
+  padding: 20px 20px 20px 20px;
+  box-sizing: border-box;
+  line-height: 0.9;
+  text-align: right;
+}
+
+.promo-text::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 25%;
+  background-color: #a7ccfc;
+  z-index: -1;
+}
+
+.promo-description {
+  letter-spacing: 3px;
+  font-weight: normal;
+  border-right: 3px solid #a7ccfc;
+  padding-right: 1%;
+  font-size: 1rem;
+}
+
+.product-grid {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .banner {
+    overflow: hidden;
+  }
+
+  .banner-image-container,
+  .text-content {
+    float: none;
+    width: 100%;
+    height: auto;
+  }
+
+  .text-content {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .quote-image-container {
+    text-align: center;
+  }
+
+  .promo-section {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .promo-text {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+    line-height: 1.0;
+    padding: 20px;
+  }
+
+  .promo-text::before {
+    width: 100%;
+    height: 40%;
+    top: 46%;
+    transform: translate(-50%, -50%);
+  }
+
+  .product-grid {
+    width: 100%;
+    flex-direction: column;
+    padding: 0;
+  }
+
+  .product-card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
