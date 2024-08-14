@@ -15,7 +15,7 @@ const App: React.FC = () => {
         <Header /> {/* Include the Header component */}
         <NavBar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/nadia-coffee" element={<Home />} />
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/shop" element={<Shop />} />
         </Routes>
