@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/nadia-coffee/static/css/main.730fc47d.css",
-    "main.js": "/nadia-coffee/static/js/main.e7d04075.js",
-    "static/js/453.f44974eb.chunk.js": "/nadia-coffee/static/js/453.f44974eb.chunk.js",
-    "static/media/Nadia_Art_Paper.png": "/nadia-coffee/static/media/Nadia_Art_Paper.d83c132614870f34ac55.png",
-    "static/media/shop-banner-pic-shadow.png": "/nadia-coffee/static/media/shop-banner-pic-shadow.b16e95320b997ed0eea7.png",
-    "static/media/Nadia_Art.png": "/nadia-coffee/static/media/Nadia_Art.152842d7c29e9ee6dcf0.png",
-    "static/media/nadia_signature.png": "/nadia-coffee/static/media/nadia_signature.c9e6ce0c5e2308d2946a.png",
-    "static/media/product-sunrise-blend.png": "/nadia-coffee/static/media/product-sunrise-blend.8f88bfbca5aa78320122.png",
-    "static/media/product-ethiopia-yirgacheffe-packaging.png": "/nadia-coffee/static/media/product-ethiopia-yirgacheffe-packaging.f3d491f6c4a4e66f8aa6.png",
-    "static/media/product-moonrise-blend.png": "/nadia-coffee/static/media/product-moonrise-blend.b42d14d3c32e6e2e288f.png",
-    "static/media/product-moonrise-blend-packaging.png": "/nadia-coffee/static/media/product-moonrise-blend-packaging.412c4cc15f604349faf3.png",
-    "static/media/product-kenya-aa-top-gold-packaging.png": "/nadia-coffee/static/media/product-kenya-aa-top-gold-packaging.2b26d46c8a99182fc9ad.png",
-    "static/media/product-sunrise-blend-packaging.png": "/nadia-coffee/static/media/product-sunrise-blend-packaging.5e8406808c12e68b4091.png",
-    "static/media/instagram-icon.svg": "/nadia-coffee/static/media/instagram-icon.eaa957f02fe3257f3533c2d96533dc6b.svg",
-    "static/media/youtube-icon.svg": "/nadia-coffee/static/media/youtube-icon.361fd800e39dcb080516df2e39c7a994.svg",
-    "static/media/wave-spacer.svg": "/nadia-coffee/static/media/wave-spacer.ad2a336282ce1466049020a8e3b63bdf.svg",
-    "index.html": "/nadia-coffee/index.html",
-    "static/media/naver-icon.svg": "/nadia-coffee/static/media/naver-icon.66fa28ebcf7f06a658080f784a5a0b93.svg",
-    "static/media/burger-menu-icon.svg": "/nadia-coffee/static/media/burger-menu-icon.fc12fbd678bea2ce4ec9524cbe12a170.svg",
-    "main.730fc47d.css.map": "/nadia-coffee/static/css/main.730fc47d.css.map",
-    "main.e7d04075.js.map": "/nadia-coffee/static/js/main.e7d04075.js.map",
-    "453.f44974eb.chunk.js.map": "/nadia-coffee/static/js/453.f44974eb.chunk.js.map"
+    "main.css": "/nadia-coffee/home/static/css/main.730fc47d.css",
+    "main.js": "/nadia-coffee/home/static/js/main.2962dfbf.js",
+    "static/js/453.f44974eb.chunk.js": "/nadia-coffee/home/static/js/453.f44974eb.chunk.js",
+    "static/media/Nadia_Art_Paper.png": "/nadia-coffee/home/static/media/Nadia_Art_Paper.d83c132614870f34ac55.png",
+    "static/media/shop-banner-pic-shadow.png": "/nadia-coffee/home/static/media/shop-banner-pic-shadow.b16e95320b997ed0eea7.png",
+    "static/media/Nadia_Art.png": "/nadia-coffee/home/static/media/Nadia_Art.152842d7c29e9ee6dcf0.png",
+    "static/media/nadia_signature.png": "/nadia-coffee/home/static/media/nadia_signature.c9e6ce0c5e2308d2946a.png",
+    "static/media/product-sunrise-blend.png": "/nadia-coffee/home/static/media/product-sunrise-blend.8f88bfbca5aa78320122.png",
+    "static/media/product-ethiopia-yirgacheffe-packaging.png": "/nadia-coffee/home/static/media/product-ethiopia-yirgacheffe-packaging.f3d491f6c4a4e66f8aa6.png",
+    "static/media/product-moonrise-blend.png": "/nadia-coffee/home/static/media/product-moonrise-blend.b42d14d3c32e6e2e288f.png",
+    "static/media/product-moonrise-blend-packaging.png": "/nadia-coffee/home/static/media/product-moonrise-blend-packaging.412c4cc15f604349faf3.png",
+    "static/media/product-kenya-aa-top-gold-packaging.png": "/nadia-coffee/home/static/media/product-kenya-aa-top-gold-packaging.2b26d46c8a99182fc9ad.png",
+    "static/media/product-sunrise-blend-packaging.png": "/nadia-coffee/home/static/media/product-sunrise-blend-packaging.5e8406808c12e68b4091.png",
+    "static/media/instagram-icon.svg": "/nadia-coffee/home/static/media/instagram-icon.eaa957f02fe3257f3533c2d96533dc6b.svg",
+    "static/media/youtube-icon.svg": "/nadia-coffee/home/static/media/youtube-icon.361fd800e39dcb080516df2e39c7a994.svg",
+    "static/media/wave-spacer.svg": "/nadia-coffee/home/static/media/wave-spacer.ad2a336282ce1466049020a8e3b63bdf.svg",
+    "index.html": "/nadia-coffee/home/index.html",
+    "static/media/naver-icon.svg": "/nadia-coffee/home/static/media/naver-icon.66fa28ebcf7f06a658080f784a5a0b93.svg",
+    "static/media/burger-menu-icon.svg": "/nadia-coffee/home/static/media/burger-menu-icon.fc12fbd678bea2ce4ec9524cbe12a170.svg",
+    "main.730fc47d.css.map": "/nadia-coffee/home/static/css/main.730fc47d.css.map",
+    "main.2962dfbf.js.map": "/nadia-coffee/home/static/js/main.2962dfbf.js.map",
+    "453.f44974eb.chunk.js.map": "/nadia-coffee/home/static/js/453.f44974eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.730fc47d.css",
-    "static/js/main.e7d04075.js"
+    "static/js/main.2962dfbf.js"
   ]
 }
